@@ -18,7 +18,7 @@ import com.jordanproject.themepark.repository.ThemeParkRideRepository;
 @RestController
 public class ThemeParkController {
 	
-	@Autowired
+		@Autowired
 	  private ThemeParkRideRepository themeParkRideRepository;
 	  
 //	    public ThemeParkController(ThemeParkRideRepository themeParkRideRepository) {
